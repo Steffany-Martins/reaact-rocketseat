@@ -1,13 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+⚛️ This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 In this repository, you can see an axios request in Heroku Rocketseat 🚀 and a page with subjects about each items in the page.
 
 ### Start open `yarn start` with CMD and you'll see this page:
 
 
 # Home page 👩🏽‍💻
-![React-Rocketseat-Funcionamento-Gift](https://github.com/Steffany-Martins/reaact-rocketseat/blob/master/react-rocketseat.gif)
+![React-Rocketseat-Funcionamento-Home-Gift](https://github.com/Steffany-Martins/reaact-rocketseat/blob/master/react-rocketseat.gif)
 
 # Detail page 👩🏽‍💻
+![React-Rocketseat-Funcionamento-Detail-Gift](https://github.com/Steffany-Martins/reaact-rocketseat/blob/master/react-detail-page.gif)
 
 ## Available Scripts
 
